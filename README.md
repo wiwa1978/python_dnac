@@ -18,7 +18,8 @@ Below you find the various steps to complete this exercise.
 - Modify the Python scripts to accomplish the following:
   * Part 1: Log into DNAC and print the token
   * Part 2: Print an overview of all devices with their serial number
-  As mentioned in the introduction, there are placeholders in the Python script to help you.
+
+As mentioned in the introduction, there are placeholders in the Python script to help you.
 
 ### Step 3) Push repository
 * Once finished, add your code back to the Github repository. Push your code to the same Github repo under the branch you created in step 1
