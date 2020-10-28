@@ -11,7 +11,7 @@ Below you find the various steps to complete this exercise.
 
 ### Step 1)	Clone repository
 * Clone this repository onto your PC or MAC
-* Once cloned, create a new git branch (give the branch a name (e.g. your username or full name)
+* Once cloned, create a new git branch (give the branch a name (e.g. your username or first name)
 
 ### Step 2)	Modify the Python scripts
 
